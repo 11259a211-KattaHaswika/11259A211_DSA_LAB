@@ -17,6 +17,3 @@ A collection of twelve C laboratory programs.
 11. **Sorting Algorithms** — [Program](11259A211_exp11.c) · [Sample input](inputs/11259A211_exp11_input.txt) · [Output](outputs/11259A211_exp11_output.txt)
 12. **Hashing with Linear Probing** — [Program](11259A211_exp12.c) · [Sample input](inputs/11259A211_exp12_input.txt) · [Output](outputs/11259A211_exp12_output.txt)
 
-
-./lab
-```
