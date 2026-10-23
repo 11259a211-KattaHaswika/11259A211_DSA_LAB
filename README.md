@@ -17,13 +17,6 @@ A collection of twelve C laboratory programs.
 11. **Sorting Algorithms** — [Program](11259A211_exp11.c) · [Sample input](inputs/11259A211_exp11_input.txt) · [Output](outputs/11259A211_exp11_output.txt)
 12. **Hashing with Linear Probing** — [Program](11259A211_exp12.c) · [Sample input](inputs/11259A211_exp12_input.txt) · [Output](outputs/11259A211_exp12_output.txt)
 
-## Quick Start
 
-1. Download the required C source file.
-2. Open a terminal in its folder.
-3. Compile and run:
-
-```sh
-gcc -std=c11 11259A211_exp1.c -o lab -lm
 ./lab
 ```
