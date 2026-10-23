@@ -27,9 +27,3 @@ A collection of twelve C laboratory programs.
 gcc -std=c11 11259A211_exp1.c -o lab -lm
 ./lab
 ```
-
-For Windows with GCC, run `lab.exe`. Change the experiment number for other programs.
-
-## Reference
-
-Programs follow the SCSVMV DSA Laboratory Manual prepared by PREETHI R, Assistant Professor, Department of CSE. The C files and existing sample run transcripts are preserved from the supplied package.
